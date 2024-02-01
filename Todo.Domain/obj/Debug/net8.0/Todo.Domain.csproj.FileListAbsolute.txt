@@ -1,0 +1,12 @@
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain\bin\Debug\net8.0\Todo.Domain.deps.json
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain\bin\Debug\net8.0\Todo.Domain.dll
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain\bin\Debug\net8.0\Todo.Domain.pdb
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain\obj\Debug\net8.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain\obj\Debug\net8.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain\obj\Debug\net8.0\Todo.Domain.AssemblyInfo.cs
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain\obj\Debug\net8.0\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain\obj\Debug\net8.0\Todo.Domain.dll
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain\obj\Debug\net8.0\refint\Todo.Domain.dll
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain\obj\Debug\net8.0\Todo.Domain.pdb
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain\obj\Debug\net8.0\ref\Todo.Domain.dll
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain\obj\Debug\net8.0\Todo.Domain.csproj.AssemblyReference.cache

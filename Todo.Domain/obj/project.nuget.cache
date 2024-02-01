@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aVmpMA8CivcQI0dkcba59L2lCNDwrO3imU4X73FAv1uQfCp+j01akvyyszOZD4QputU25KTyRX+PhVd7tRBkmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\Desktop\\APIAsp.Net\\Todo.Domain\\Todo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
