@@ -1,0 +1,11 @@
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain.Infra\bin\Debug\net8.0\Todo.Domain.Infra.deps.json
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain.Infra\bin\Debug\net8.0\Todo.Domain.Infra.dll
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain.Infra\bin\Debug\net8.0\Todo.Domain.Infra.pdb
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain.Infra\obj\Debug\net8.0\Todo.Domain.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain.Infra\obj\Debug\net8.0\Todo.Domain.Infra.AssemblyInfoInputs.cache
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain.Infra\obj\Debug\net8.0\Todo.Domain.Infra.AssemblyInfo.cs
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain.Infra\obj\Debug\net8.0\Todo.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain.Infra\obj\Debug\net8.0\Todo.Domain.Infra.dll
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain.Infra\obj\Debug\net8.0\refint\Todo.Domain.Infra.dll
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain.Infra\obj\Debug\net8.0\Todo.Domain.Infra.pdb
+C:\Users\samue\Desktop\APIAsp.Net\Todo.Domain.Infra\obj\Debug\net8.0\ref\Todo.Domain.Infra.dll
